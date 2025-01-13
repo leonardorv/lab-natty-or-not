@@ -2,20 +2,21 @@
 # Avatar Virtual 
 
 ## 📒 Descrição
-Criação de um vídeo curto para redes sociais  
+Criação de um vídeo curto para redes sociais divulgando o Sítio da Tartaruga.  
 
 ## 🤖 Tecnologias Utilizadas
-Liste as IAs Generativas e outras ferramentas usadas
+HeyGen
 
 ## 🧐 Processo de Criação
-Descreva como você criou o conteúdo
+Criei uma conta e usei os créditos gratuitos para gerar um video promocional.
 
 ## 🚀 Resultados
-Apresente os resultados do seu projeto
 
-## 💭 Reflexão (Opcional)
-Comente sobre o desafio de criar algo 'natty' com IA.
-```
+https://github.com/user-attachments/assets/259a8919-1679-4569-9ba6-db343eff9c26
+
+## 💭 Reflexão 
+Os resultados ainda são bastante mecânicos, tanto no fluxo da voz como na movimentação do avatar, mas é uma tecnologia bastante promissora.
+
 
 
 
